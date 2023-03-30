@@ -1,0 +1,103 @@
+,Unnamed: 0,Gender,Location,Type of location,Age,Profession,Annual Income,Model,Segment,Environmet,PowerTrain,Price,Choice,Budget,Preformance,Affordability,Style,Luxury,RunningCost
+0,0,Male,Uttar Pradesh,Major City,20,Student,2.5,SUV,['Preformance'],A lilttle bit,Lack of charging options,1.5,Negligible Running cost,0.0,0,0,0,0,0
+1,1,Female,Uttar Pradesh,Major City,23,Student,2.5,Sedan,['Affordability'],A lilttle bit,Range in terms of distance,7.5,Negligible Running cost,12.5,0,0,0,0,0
+2,2,Male,Uttar Pradesh,Major City,20,Student,2.5,SUV,"['Style', 'Performance']",A lilttle bit,Lack of charging options,4.0,Negligible Running cost,17.5,0,0,0,0,0
+3,3,Female,Delhi,Major City,19,Student,25.0,SUV,['Performance'],It is taken into consideration,Lack of charging options,0.0,I do not prefer an electric car,2.5,0,0,0,0,0
+4,4,Female,Haryana,Major City,19,Student,2.5,SUV,['Performance'],A lilttle bit,Affordability,0.0,Enviroment Friendly,7.5,0,0,0,0,0
+5,5,Female,Noida,Major City,47,Working professional,7.5,Sedan,['Performance'],It is taken into consideration,Lack of charging options,0.0,Negligible Running cost,7.5,0,0,0,0,0
+6,6,Male,Delhi,Major City,55,Working professional,15.0,Sedan,['Performance'],A lilttle bit,Affordability,1.5,Enviroment Friendly,7.5,0,0,0,0,0
+7,7,Male,Uttar Pradesh,Major City,19,Student,2.5,Sedan,['Performance'],It is a major concern,Lack of charging options,7.5,Enviroment Friendly,50.0,0,0,0,0,0
+8,8,Female,Uttar Pradesh,Major City,19,Student,2.5,SUV,['Performance'],It is a major concern,Lack of design options,0.0,Enviroment Friendly,7.5,0,0,0,0,0
+9,9,Male,Haryana,Major City,19,Student,2.5,MPV (Multi purpose vehicle),"['Luxury', 'Performance', 'RunningCost']",It is taken into consideration,Range in terms of distance,0.0,I do not prefer an electric car,25.0,0,0,0,0,0
+10,10,Male,Delhi,Major City,23,Student,2.5,Sedan,"['Luxury', 'Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,4.0,Enviroment Friendly,12.5,0,0,0,0,0
+11,11,Male,Karnataka,Major City,21,Student,2.5,Hatch back,"['Style', 'Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,0.0,Enviroment Friendly,12.5,0,0,0,0,0
+12,12,Male,Uttar Pradesh,Major City,19,Student,2.5,Hatch back,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,11.0,I do not prefer an electric car,7.5,0,0,0,0,0
+13,13,Male,Uttar Pradesh,Major City,19,Student,2.5,SUV,"['Performance', 'RunningCost']",It is taken into consideration,Lack of charging options,0.0,I do not prefer an electric car,2.5,0,0,0,0,0
+14,14,Male,Uttar Pradesh,Major City,42,Working professional,15.0,Sedan,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",It is a major concern,Affordability,0.0,Negligible Running cost,12.5,0,0,0,0,0
+15,15,Female,Uttar Pradesh,Major City,20,Student,2.5,SUV,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,0.0,Enviroment Friendly,7.5,0,0,0,0,0
+16,16,Female,Uttar Pradesh,Major City,20,Student,60.0,SUV,"['Style', 'Performance', 'Affordability']",It is taken into consideration,Lack of charging options,0.0,Enviroment Friendly,12.5,0,0,0,0,0
+17,17,Female,Karnataka,Major City,23,Student,2.5,SUV,"['Style', 'Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,0.0,I do not prefer an electric car,7.5,0,0,0,0,0
+18,18,Female,Greater Noida west,Major City,40,Non working,2.5,Sedan,['RunningCost'],It is a major concern,Range in terms of distance,0.0,Negligible Running cost,7.5,0,0,0,0,0
+19,19,Female,Uttar Pradesh,Major City,19,Student,2.5,Sedan,"['Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Affordability,0.0,Negligible Running cost,7.5,0,0,0,0,0
+20,20,Male,Maharashtra,Major City,29,Working professional,7.5,Hatch back,"['Style', 'Performance', 'Affordability']",None,Lack of charging options,1.5,Negligible Running cost,7.5,0,0,0,0,0
+21,21,Female,Tamil Nadu,Minor City,31,Working professional,2.5,SUV,"['Luxury', 'Performance', 'Affordability']",It is a major concern,Range in terms of distance,1.5,Enviroment Friendly,7.5,0,0,0,0,0
+22,22,Female,Delhi,Major City,23,Student,2.5,SUV,['Performance'],It is a major concern,I dont have any concerns,11.0,Enviroment Friendly,25.0,0,0,0,0,0
+23,23,Female,Uttar Pradesh,Major City,22,Student,2.5,SUV,['Affordability'],A lilttle bit,Lack of charging options,0.0,Enviroment Friendly,17.5,0,0,0,0,0
+24,24,Male,Tamil Nadu,Minor City,29,Working professional,60.0,Sedan,['Luxury'],It is taken into consideration,Lack of charging options,1.5,Enviroment Friendly,17.5,0,0,0,0,0
+25,25,Female,Tamil Nadu,Major City,31,Working professional,15.0,SUV,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",It is a major concern,Affordability,1.5,Enviroment Friendly,12.5,0,0,0,0,0
+26,26,Female,Tamil Nadu,Town,29,Working professional,15.0,SUV,"['Performance', 'Affordability', 'RunningCost']",A lilttle bit,Range in terms of distance,4.0,Enviroment Friendly,12.5,0,0,0,0,0
+27,27,Male,Tamil Nadu,Village,27,Working professional,15.0,Sedan,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,0.0,I do not prefer an electric car,12.5,0,0,0,0,0
+28,28,Female,Tamil Nadu,Major City,24,Student,7.5,Sedan,['RunningCost'],It is a major concern,Lack of charging options,0.0,Enviroment Friendly,12.5,0,0,0,0,0
+29,29,Male,Uttar Pradesh,Major City,22,Student,7.5,SUV,"['Style', 'Performance', 'Affordability']",A lilttle bit,Affordability,1.5,Negligible Running cost,12.5,0,0,0,0,0
+30,30,Male,Uttar Pradesh,Village,22,Student,2.5,Sedan,"['Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Affordability,1.5,Negligible Running cost,7.5,0,0,0,0,0
+31,31,Female,Uttar Pradesh,Town,25,Student,7.5,Hatch back,['Affordability'],None,Range in terms of distance,7.5,Enviroment Friendly,7.5,0,0,0,0,0
+32,32,Female,Telangana,Major City,22,Student,2.5,MPV (Multi purpose vehicle),"['Performance', 'Affordability', 'RunningCost']",It is a major concern,Lack of charging options,1.5,Enviroment Friendly,7.5,0,0,0,0,0
+33,33,Female,Uttar Pradesh,Major City,23,Working professional,2.5,Sedan,"['Performance', 'Affordability']",It is taken into consideration,Affordability,0.0,Enviroment Friendly,2.5,0,0,0,0,0
+34,34,Male,Delhi,Major City,20,Student,2.5,SUV,"['Luxury', 'Performance', 'Affordability']",A lilttle bit,Lack of charging options,0.0,Enviroment Friendly,25.0,0,0,0,0,0
+35,35,Female,Uttar Pradesh,Major City,20,Student,15.0,Sedan,['Performance'],It is a major concern,Lack of charging options,0.0,Enviroment Friendly,7.5,0,0,0,0,0
+36,36,Male,Uttar Pradesh,Major City,20,Student,2.5,SUV,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",A lilttle bit,Lack of charging options,0.0,Enviroment Friendly,25.0,0,0,0,0,0
+37,37,Female,Haryana,Major City,20,Student,2.5,MPV (Multi purpose vehicle),"['Performance', 'Affordability', 'RunningCost']",It is a major concern,Affordability,4.0,Enviroment Friendly,17.5,0,0,0,0,0
+38,38,Male,Karnataka,Major City,21,Student,2.5,Sedan,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,1.5,Negligible Running cost,17.5,0,0,0,0,0
+39,39,Male,Haryana,Major City,20,Student,2.5,SUV,"['Style', 'Performance']",None,EVs don't produce sound ,0.0,I do not prefer an electric car,17.5,0,0,0,0,0
+40,40,Female,Noida,Major City,23,Student,15.0,SUV,"['Style', 'Performance', 'Affordability', 'RunningCost']",It is a major concern,Lack of charging options,1.5,Enviroment Friendly,12.5,0,0,0,0,0
+41,41,Male,Karnataka,Major City,20,Student,2.5,SUV,['RunningCost'],It is taken into consideration,Range in terms of distance,0.0,Enviroment Friendly,12.5,0,0,0,0,0
+42,42,Female,Uttar Pradesh,Major City,23,Student,7.5,Sedan,"['Performance', 'Affordability']",A lilttle bit,Range in terms of distance,4.0,Enviroment Friendly,7.5,0,0,0,0,0
+43,43,Female,Delhi,Major City,26,Working professional,25.0,Hatch back,"['Style', 'Performance', 'Affordability']",It is taken into consideration,Affordability,7.5,Negligible Running cost,17.5,0,0,0,0,0
+44,44,Prefer not to say,Noida,Major City,20,Student,2.5,SUV,"['Luxury', 'Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,1.5,Enviroment Friendly,7.5,0,0,0,0,0
+45,45,Female,Karnataka,Major City,20,Student,2.5,Sedan,"['Style', 'Performance', 'Affordability']",It is taken into consideration,Lack of charging options,1.5,Enviroment Friendly,7.5,0,0,0,0,0
+46,46,Male,Uttar Pradesh,Major City,20,Student,7.5,Sedan,['Performance'],A lilttle bit,Performance,0.0,Enviroment Friendly,7.5,0,0,0,0,0
+47,47,Male,Tamil Nadu,Minor City,20,Student,15.0,SUV,"['Luxury', 'Performance']",It is taken into consideration,Range in terms of distance,7.5,I do not prefer an electric car,12.5,0,0,0,0,0
+48,48,Female,Uttar Pradesh,Major City,19,Working professional,7.5,Sports,['Performance'],A lilttle bit,Range in terms of distance,4.0,I do not prefer an electric car,25.0,0,0,0,0,0
+49,49,Female,Karnataka,Major City,19,Student,25.0,Sedan,"['Style', 'Affordability']",A lilttle bit,Lack of design options,0.0,I do not prefer an electric car,12.5,0,0,0,0,0
+50,50,Female,Haryana,Major City,19,Student,2.5,Hatch back,['Style'],It is taken into consideration,Lack of charging options,0.0,Enviroment Friendly,12.5,0,0,0,0,0
+51,51,Male,Uttar Pradesh,Major City,20,Student,2.5,Sedan,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,0.0,I do not prefer an electric car,12.5,0,0,0,0,0
+52,52,Female,Tamil Nadu,Village,22,Student,2.5,SUV,['Performance'],It is taken into consideration,Affordability,0.0,Enviroment Friendly,7.5,0,0,0,0,0
+53,53,Female,Karnataka,Major City,19,Student,2.5,SUV,['Performance'],A lilttle bit,Lack of charging options,7.5,Enviroment Friendly,12.5,0,0,0,0,0
+54,54,Female,Delhi,Major City,22,Student,2.5,SUV,"['Style', 'Performance', 'Affordability']",It is taken into consideration,Lack of charging options,0.0,Enviroment Friendly,12.5,0,0,0,0,0
+55,55,Female,Tamil Nadu,Major City,26,Working professional,7.5,Sedan,"['Performance', 'Affordability', 'RunningCost']",It is a major concern,Lack of charging options,4.0,Enviroment Friendly,12.5,0,0,0,0,0
+56,56,Female,Uttar Pradesh,Town,23,Student,25.0,Sedan,['Performance'],It is taken into consideration,I dont have any concerns,7.5,I do not prefer an electric car,35.0,0,0,0,0,0
+57,57,Female,MP,Major City,29,Non working,2.5,SUV,"['Performance', 'RunningCost']",It is taken into consideration,Lack of charging options,1.5,Negligible Running cost,12.5,0,0,0,0,0
+58,58,Male,Uttar Pradesh,Major City,22,Student,2.5,Sedan,"['Performance', 'Affordability', 'RunningCost']",None,Range in terms of distance,7.5,Negligible Running cost,7.5,0,0,0,0,0
+59,59,Female,Karnataka,Major City,20,Student,2.5,Sports,"['Performance', 'Affordability', 'RunningCost']",It is a major concern,Lack of charging options,0.0,Enviroment Friendly,17.5,0,0,0,0,0
+60,60,Male,Maharashtra,Major City,27,Working professional,7.5,SUV,"['Performance', 'RunningCost']",It is taken into consideration,Range in terms of distance,1.5,Enviroment Friendly,12.5,0,0,0,0,0
+61,61,Male,Haryana,Major City,25,Working professional,7.5,Sedan,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,1.5,Enviroment Friendly,7.5,0,0,0,0,0
+62,62,Male,Hyderabad ,Minor City,18,Student,2.5,SUV,"['Style', 'Luxury', 'Performance', 'Affordability']",It is taken into consideration,It doesn't make sound while moving. It may cause accidents,4.0,Enviroment Friendly,50.0,0,0,0,0,0
+63,63,Male,Uttar Pradesh,Village,26,Student,2.5,Hatch back,"['Performance', 'Affordability']",It is taken into consideration,Lack of charging options,1.5,Enviroment Friendly,7.5,0,0,0,0,0
+64,64,Female,Delhi,Major City,22,Non working,2.5,SUV,['Style'],It is taken into consideration,I dont have any concerns,0.0,Enviroment Friendly,2.5,0,0,0,0,0
+65,65,Female,Delhi,Major City,25,Student,7.5,Sedan,['Performance'],It is a major concern,Affordability,4.0,Enviroment Friendly,7.5,0,0,0,0,0
+66,66,Male,Uttar Pradesh,Major City,29,Working professional,15.0,SUV,"['Performance', 'Affordability']",It is a major concern,Lack of charging options,11.0,Enviroment Friendly,12.5,0,0,0,0,0
+67,67,Male,Karnataka,Major City,20,Student,2.5,Sports,['Performance'],A lilttle bit,Range in terms of distance,0.0,Enviroment Friendly,7.5,0,0,0,0,0
+68,68,Female,Uttar Pradesh,Major City,19,Student,35.0,Sedan,['Performance'],A lilttle bit,I dont have any concerns,0.0,Negligible Running cost,12.5,0,0,0,0,0
+69,69,Female,Uttar Pradesh,Major City,23,Student,2.5,Sports,['Affordability'],A lilttle bit,Lack of charging options,1.5,Enviroment Friendly,12.5,0,0,0,0,0
+70,70,Male,Uttar Pradesh,Major City,20,Student,2.5,Sedan,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Affordability,1.5,Negligible Running cost,12.5,0,0,0,0,0
+71,71,Male,Uttar Pradesh,Major City,21,Student,7.5,SUV,['Style'],It is a major concern,Range in terms of distance,1.5,Negligible Running cost,12.5,0,0,0,0,0
+72,72,Male,Uttar Pradesh,Major City,20,Student,2.5,Sedan,"['Style', 'Performance', 'RunningCost']",It is taken into consideration,Lack of charging options,4.0,Enviroment Friendly,17.5,0,0,0,0,0
+73,73,Male,Uttar Pradesh,Major City,21,Student,2.5,SUV,"['Style', 'Performance', 'Affordability']",It is taken into consideration,Lack of charging options,4.0,I do not prefer an electric car,12.5,0,0,0,0,0
+74,74,Male,Delhi,Major City,20,Student,2.5,Sports,"['Style', 'Luxury', 'Performance']",None,I dont like how soundless they they dont have a natural strong feeling to it ,0.0,I do not prefer an electric car,25.0,0,0,0,0,0
+75,75,Male,Odisha ,Major City,20,Student,2.5,Sports,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",A lilttle bit,Lack of charging options,1.5,I do not prefer an electric car,7.5,0,0,0,0,0
+76,76,Female,Delhi,Minor City,19,Student,60.0,Sports,['RunningCost'],A lilttle bit,Lack of charging options,0.0,I do not prefer an electric car,50.0,0,0,0,0,0
+77,77,Female,Ghaziabad ,Major City,26,Working professional,7.5,Sedan,['Luxury'],A lilttle bit,Lack of charging options,0.0,Enviroment Friendly,7.5,0,0,0,0,0
+78,78,Male,Delhi,Major City,21,Student,2.5,Sedan,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,7.5,Overall better performance than many gas cars.,50.0,0,0,0,0,0
+79,79,Male,Uttar Pradesh,Major City,21,Student,2.5,Sedan,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",A lilttle bit,Range in terms of distance,0.0,Negligible Running cost,12.5,0,0,0,0,0
+80,80,Female,West Bengal,Major City,30,Working professional,2.5,SUV,"['Performance', 'Affordability', 'RunningCost']",It is a major concern,Lack of charging options,1.5,Enviroment Friendly,7.5,0,0,0,0,0
+81,81,Male,Uttar Pradesh,Major City,21,Student,2.5,SUV,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",A lilttle bit,Range in terms of distance,4.0,Enviroment Friendly,17.5,0,0,0,0,0
+82,82,Female,Uttar Pradesh,Major City,22,Student,7.5,MPV (Multi purpose vehicle),['Luxury'],It is a major concern,Range in terms of distance,11.0,Enviroment Friendly,50.0,0,0,0,0,0
+83,83,Female,Uttar Pradesh,Major City,20,Student,35.0,Sedan,"['Style', 'Performance', 'Affordability']",A lilttle bit,Lack of charging options,0.0,Enviroment Friendly,17.5,0,0,0,0,0
+84,84,Male,Uttar Pradesh,Major City,19,Student,2.5,SUV,['Performance'],It is taken into consideration,Lack of charging options,1.5,Enviroment Friendly,12.5,0,0,0,0,0
+85,85,Male,Uttar Pradesh,Major City,21,Student,2.5,Sedan,['Style'],It is a major concern,The initial carbon footprint that it generates,1.5,Negligible Running cost,17.5,0,0,0,0,0
+86,86,Male,Uttar Pradesh,Major City,21,Working professional,2.5,Sports,['Luxury'],It is taken into consideration,I dont have any concerns,4.0,Enviroment Friendly,17.5,0,0,0,0,0
+87,87,Male,Delhi,Major City,39,Working professional,15.0,SUV,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",It is a major concern,Range in terms of distance,4.0,Enviroment Friendly,12.5,0,0,0,0,0
+88,88,Male,Uttar Pradesh,Major City,49,Working professional,15.0,SUV,['Luxury'],It is a major concern,Lack of charging options,7.5,Enviroment Friendly,17.5,0,0,0,0,0
+89,89,Male,Uttar Pradesh,Major City,19,Student,2.5,Sedan,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",A lilttle bit,Affordability,0.0,Enviroment Friendly,12.5,0,0,0,0,0
+90,90,Male,Delhi,Major City,45,Working professional,25.0,SUV,"['Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,1.5,Enviroment Friendly,12.5,0,0,0,0,0
+91,91,Male,Uttar Pradesh,Major City,18,Student,25.0,SUV,['Performance'],A lilttle bit,Lack of charging options,1.5,Enviroment Friendly,12.5,0,0,0,0,0
+92,92,Female,Karnataka,Major City,19,Student,15.0,Sedan,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,1.5,Enviroment Friendly,12.5,0,0,0,0,0
+93,93,Male,Delhi,Major City,21,Student,35.0,SUV,"['Style', 'Luxury', 'Performance', 'Affordability', 'RunningCost']",It is taken into consideration,Lack of charging options,4.0,Enviroment Friendly,17.5,0,0,0,0,0
+94,94,Male,Uttar Pradesh,Major City,23,Working professional,7.5,Sedan,"['Performance', 'Affordability']",It is taken into consideration,Lack of charging options,1.5,Enviroment Friendly,12.5,0,0,0,0,0
+95,95,Male,Uttar Pradesh,Major City,63,Student,2.5,Hatch back,"['Performance', 'Affordability', 'RunningCost']",It is a major concern,Affordability,0.0,Enviroment Friendly,2.5,0,0,0,0,0
+96,96,Female,Delhi,Major City,20,Student,2.5,SUV,"['Luxury', 'Performance', 'Affordability']",It is taken into consideration,Range in terms of distance,7.5,Enviroment Friendly,25.0,0,0,0,0,0
+97,97,Female,Uttar Pradesh,Major City,20,Student,2.5,Sports,"['Luxury', 'Performance', 'Affordability']",It is taken into consideration,Lack of design options,0.0,I do not prefer an electric car,17.5,0,0,0,0,0
+98,98,Female,Delhi,Major City,21,Student,2.5,MPV (Multi purpose vehicle),"['Performance', 'Affordability']",It is taken into consideration,Lack of charging options,1.5,Enviroment Friendly,7.5,0,0,0,0,0
+99,99,Male,Uttar Pradesh,Major City,19,Student,2.5,Hatch back,"['Performance', 'Affordability', 'RunningCost']",A lilttle bit,Affordability,1.5,Negligible Running cost,12.5,0,0,0,0,0
+100,100,Male,Delhi,Major City,48,Working professional,25.0,SUV,['Style'],A lilttle bit,Range in terms of distance,1.5,Negligible Running cost,12.5,0,0,0,0,0
+101,101,Female,Bihar,Minor City,39,Non working,7.5,Hatch back,['Affordability'],None,Lack of charging options,0.0,I do not prefer an electric car,2.5,0,0,0,0,0
