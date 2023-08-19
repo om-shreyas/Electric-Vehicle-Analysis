@@ -17,8 +17,8 @@ This project visualizes data related to electric vehicles, non-electric vehicles
 
 To reproduce the visualizations locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/electric-vehicle-data.git`
-2. Navigate to the project directory: `cd electric-vehicle-data`
+1. Clone the repository: `git clone git@github.com:IAmTheBlueDragon/Electric-Vehicle-Analysis.git`
+2. Navigate to the project directory: `cd Electric-Vehicle-Analysis.git'
 3. Install the required Python libraries: `pip install pandas matplotlib seaborn`
 
 ## Usage
